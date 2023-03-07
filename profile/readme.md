@@ -1,8 +1,8 @@
-# SolarHeatX - Bringing Smart Home to Home Heating Systems
+# SolarHeatX - Intelligente Heizungssteuerung für zu Hause
 
 ## Intelligent heizen mit Solarheatx - verbinde dein Zuhause mit smartem Wärmemanagement!
 
-SolarHeatX ist ein Produkt, das Smart Home-Technologie mit Heizungssystemen verbindet und speziell darauf ausgelegt ist, eine Überhitzung des Wassers im Heizsystem zu vermeiden. Es verwaltet die Pumpen und Magnetventile im Heizsystem und gibt einen Überblick über alle kritischen Daten über eine Website und App.
+SolarHeat^X ist ein Produkt, das Smart Home-Technologie mit Heizungssystemen verbindet und speziell darauf ausgelegt ist, eine Überhitzung des Wassers im Heizsystem zu vermeiden. Es verwaltet die Pumpen und Magnetventile im Heizsystem und gibt einen Überblick über alle kritischen Daten über eine Website und App.
 
 Mit SolarHeatX können Sie Ihr Heizsystem einfach verwalten und sicherstellen, dass Ihr Wasser nicht überhitzt und Schäden an Ihrem Heizsystem verursacht. Das System ermöglicht es Ihnen, Ihren Energieverbrauch zu optimieren, Geld bei den Energiekosten zu sparen und die Lebensdauer Ihres Heizsystems zu erhöhen.
 
