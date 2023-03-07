@@ -6,7 +6,7 @@ SolarHeat^X ist ein Produkt, das Smart Home-Technologie mit Heizungssystemen ver
 
 Mit SolarHeatX können Sie Ihr Heizsystem einfach verwalten und sicherstellen, dass Ihr Wasser nicht überhitzt und Schäden an Ihrem Heizsystem verursacht. Das System ermöglicht es Ihnen, Ihren Energieverbrauch zu optimieren, Geld bei den Energiekosten zu sparen und die Lebensdauer Ihres Heizsystems zu erhöhen.
 
-## Funktionen🔧
+## Funktionen 🔧
 
 ### Steuerung von Pumpen und Magnetventilen ⚙️
 
